@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: 'Object is possibly 'null'.  The `bug.ts` file contains the erroneous code, while `bugSolution.ts` provides a corrected version.  The error arises from attempting to call toUpperCase() on a variable that might be null.
